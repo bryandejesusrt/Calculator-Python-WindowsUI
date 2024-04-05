@@ -1,6 +1,5 @@
 # Calculator
-Create your own Python Calculator App using Python and tkinter.
-
+Python Calculator application using Python and tkinter with windows calculator UI.
 
 ![Calculator App](calculator.png)
 
