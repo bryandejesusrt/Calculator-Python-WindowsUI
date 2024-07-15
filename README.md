@@ -1,22 +1,24 @@
-# Calculator with Windows style GUI
-__Python Calculator application using Python and tkinter with windows calculator UI.__  
-This project is a simple calculator with a graphical user interface (GUI) that mimics the look of the standard Windows calculator.
+# Calculator with Windows Style GUI 🖩
+__Python Calculator application using Python and Tkinter with a Windows calculator UI. This project mimics the standard Windows calculator's look.__  
+
+
 
 
 ![image](https://github.com/bryandejesusrt/Calculator-Python-WindowsUI-/assets/71520172/77729ce1-1c2b-4b29-9f87-6e91209d6e0d)
 
-## Features
+## Features 🌟
 
 - Perform basic arithmetic operations (addition, subtraction, multiplication, division).
 - Handles whole numbers and decimals.
 - Clear button to clear the calculator screen.
+  
 
-## Facility
+## Setup 🚀
 
 
 1. Clone the repository:
 ```shell
-git clone https://github.com/tu_usuario/calculadora-tkinter.git
+git clone https://github.com/bryandejesusrt/calculadora-tkinter.git
 ```
 
 2. Ingresa al directorio del proyecto:
@@ -37,28 +39,29 @@ python calc.py
 
 
 
-## Use
+## Usage 📱
 
 - Click the number buttons to enter numbers.
 - Use the operation buttons to perform calculations.
 - Press the "C" button to clear the screen.
 
-## System Requirements
+## System Requirements 🖥️
 
 -Python 3.x
 - Tkinter (typically included with the standard Python installation)
 
-## Contribution
+## Contribution 🤝
 
 If you want to contribute, you are welcome! You can clone the repository, make your changes and send a pull request.
 
-## License
+## License 📜
+
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Thanks
+## Acknowledgments 🙏 
 
-This project is inspired by the standard Windows calculator and uses Tkinter for the creation of the graphical interface.
+Inspired by the standard Windows calculator, using Tkinter for the GUI. Thank you for your interest! For questions or suggestions, feel free to contact me.ace.
 
 ---
 
